@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Abinash Karki, a Enthusiast 🚀👨‍💻.
+## Hi, I'm Abinash Karki, an Enthusiast 🚀👨‍💻.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
