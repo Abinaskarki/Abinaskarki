@@ -23,7 +23,10 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me: abinaskarki1@gmail.com;
 
 **Languages and Tools:** 
+
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg "></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 
