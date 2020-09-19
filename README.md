@@ -12,16 +12,15 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="40%" align="right" alt="Github" src="https://media.giphy.com/media/l4pTii07Gypi3GFPy/giphy.gif" />
+<img width="50%" align="right" alt="Github" src="https://media.giphy.com/media/l4pTii07Gypi3GFPy/giphy.gif" />
 
 <!-- - 👨🏽‍💻 I’m currently working; -->
 - 🌱 I’m currently learning Python and Web Scraping; 
-<!-- - 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝; -->
-<!-- - 🤔 I’m looking for help with Design Pattern 😭; -->
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I love to play harmonica;
 - 📫 How to reach me: abinaskarki1@gmail.com;
-
+<!-- - 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝; -->
+<!-- - 🤔 I’m looking for help with Design Pattern 😭; -->
 **Languages and Tools:** 
 
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
