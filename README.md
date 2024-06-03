@@ -15,9 +15,9 @@ You can use the website to generate badges: https://shields.io/
 <img width="50%" align="right" alt="Github" src="https://media.giphy.com/media/l4pTii07Gypi3GFPy/giphy.gif" />
 
 <!-- - 👨🏽‍💻 I’m currently working; -->
-- 🌱 I’m currently learning Python and Web Scraping; 
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I love to play harmonica;
+- 🌱 I’m currently learning on how to use LangChain with LLMs (OpenAI, Claude, Gemini); 
+- 💬 Ask me about anything (Java Full Stack Development), I am happy to help;
+- ⚡️ Fun-Fact: I love to play cricket (sport, not the insect);
 - 📫 How to reach me: abinaskarki1@gmail.com;
 <!-- - 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝; -->
 <!-- - 🤔 I’m looking for help with Design Pattern 😭; -->
